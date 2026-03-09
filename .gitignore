@@ -1,0 +1,14 @@
+# Node
+**/node_modules/
+**/out/
+**/dist/
+**/*.vsix
+
+# Python
+**/__pycache__/
+**/.venv/
+**/venv/
+**/.env
+
+# OS Files
+.DS_Store
