@@ -1,4 +1,5 @@
-# Neural-Sync 
+cat << 'EOF' > README.md
+# Neural-Sync ⚡
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Vercel: Deployed](https://img.shields.io/badge/Vercel-Deployed-black?logo=vercel)](https://vercel.com)
@@ -13,6 +14,7 @@ Traditional Git merge tools force a binary, text-based choice, inevitably destro
 
 https://github.com/user-attachments/assets/81bc927f-94df-44be-bc55-12b2512f7105
 
+---
 
 ## 🏗️ System Architecture
 
