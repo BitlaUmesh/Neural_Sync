@@ -12,7 +12,7 @@ Traditional Git merge tools force a binary, text-based choice, inevitably destro
 
 ## 🎥 Action Demo
 
-<video src="https://github.com/user-attachments/assets/81bc927f-94df-44be-bc55-12b2512f7105" controls="controls" style="max-width: 100%; display: block; margin: 0 auto;">
+<video src="https://github.com/BitlaUmesh/Neural_Sync/releases/download/v1.0-demo/demo.mp4" controls="controls" style="max-width: 100%; display: block; margin: 0 auto;">
   Your browser does not support the video tag.
 </video>
 
