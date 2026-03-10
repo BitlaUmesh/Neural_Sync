@@ -11,8 +11,7 @@ Traditional Git merge tools force a binary, text-based choice, inevitably destro
 
 ## 🎥 Action Demo
 
-https://github.com/BitlaUmesh/Neural_Sync/raw/main/assets/demo.mp4
-
+![Neural-Sync Action Demo](./assets/demo.mp4)
 ---
 
 ## 🏗️ System Architecture
