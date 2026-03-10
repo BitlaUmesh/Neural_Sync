@@ -12,7 +12,7 @@ Traditional Git merge tools force a binary, text-based choice, inevitably destro
 
 ## 🎥 Action Demo
 
-https://github.com/BitlaUmesh/Neural_Sync/releases/download/v1.0-demo/demo.mp4
+![Neural-Sync Action Demo](https://github.com/BitlaUmesh/Neural_Sync/releases/download/v1.0-demo/demo.mp4)
 
 ---
 
