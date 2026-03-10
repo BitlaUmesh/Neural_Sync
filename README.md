@@ -10,7 +10,8 @@ Traditional Git merge tools force a binary, text-based choice, inevitably destro
 ---
 
 ## 🎥 Action Demo
-<video src="./assets/demo.mp4" autoplay loop muted playsinline></video>
+
+<video src="https://github.com/BitlaUmesh/Neural_Sync/raw/main/assets/demo.mp4" autoplay loop muted playsinline width="100%"></video>
 
 ---
 
@@ -64,7 +65,7 @@ Press F5 in VS Code to open the Extension Development Host.
 
 - [x] Implement VS Code Webview UI and debounced conflict tripwire.
 
-[ ] Phase 2 (Privacy Pivot): Sever cloud dependencies. Implement local on-device inference via Ollama/WebGPU to bypass enterprise IP blockades.
+- [ ] Phase 2 (Privacy Pivot): Sever cloud dependencies. Implement local on-device inference via Ollama/WebGPU to bypass enterprise IP blockades.
 
-[ ] Phase 3 (Context Expansion): Implement local AST parsing to track conflicts across multiple dependent files.
+- [ ] Phase 3 (Context Expansion): Implement local AST parsing to track conflicts across multiple dependent files.
 EOF
