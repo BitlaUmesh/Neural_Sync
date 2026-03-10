@@ -10,7 +10,7 @@ Traditional Git merge tools force a binary, text-based choice, inevitably destro
 ---
 
 ## 🎥 Action Demo
-> **[TODO: UMESH - REPLACE THIS WITH A 15-SECOND .GIF OF THE EXTENSION RESOLVING A CONFLICT]**
+![Neural-Sync Action Demo](./assets/demo.gif)
 
 ---
 
