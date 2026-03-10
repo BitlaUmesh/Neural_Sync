@@ -11,6 +11,7 @@ Traditional Git merge tools force a binary, text-based choice, inevitably destro
 
 ## 🎥 Action Demo
 <video src="./assets/demo.mp4" autoplay loop muted playsinline></video>
+
 ---
 
 ## 🏗️ System Architecture
